@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map for JC3248W535
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JC3248W535_Display	KEYWORD1
+JC3248W535_Touch	KEYWORD1
+TouchPoint	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getCanvas	KEYWORD2
+flush	KEYWORD2
+backlightOn	KEYWORD2
+backlightOff	KEYWORD2
+setBacklight	KEYWORD2
+width	KEYWORD2
+height	KEYWORD2
+read	KEYWORD2
+isTouched	KEYWORD2
+getLastTouch	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+JC3248_LCD_CS	LITERAL1
+JC3248_LCD_SCLK	LITERAL1
+JC3248_LCD_SDIO0	LITERAL1
+JC3248_LCD_SDIO1	LITERAL1
+JC3248_LCD_SDIO2	LITERAL1
+JC3248_LCD_SDIO3	LITERAL1
+JC3248_TFT_BL	LITERAL1
+JC3248_TOUCH_SDA	LITERAL1
+JC3248_TOUCH_SCL	LITERAL1
+JC3248_TOUCH_INT	LITERAL1
+JC3248_TOUCH_ADDR	LITERAL1
+JC3248_LCD_WIDTH	LITERAL1
+JC3248_LCD_HEIGHT	LITERAL1
